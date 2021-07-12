@@ -1,0 +1,5 @@
+#Routes ignoerd
+
+node_modules/
+themes.txt
+doc/*.txt
