@@ -1,4 +1,4 @@
-# Usages
+# Usage
 ```
 Opciones:
       --help      Muestra ayuda                                   [booleano]
